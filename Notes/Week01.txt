@@ -1,0 +1,5 @@
+Q2. Melting not done properly the shape you given is 195104 rows × 6 columns but it has to be 405440 rows × 6 columns
+
+Q3. Graphs can be more appropraite.
+
+hw: 70
