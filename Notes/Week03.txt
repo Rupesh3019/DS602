@@ -1,0 +1,6 @@
+Where is your EDA in the homework. Just precitions are not enough
+
+Where you got these ['a', 'e','y'] letters without making any EDA
+
+hw: 50
+lab: 100
