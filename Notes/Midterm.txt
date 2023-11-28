@@ -1,0 +1,3 @@
+hw: 28
+
+Presentation is from localhost. EDA is very shallow. Only one model explored, no pipeline, no hyper parameter tuning
